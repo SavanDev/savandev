@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+**I'm Dylan!** An argentinian developer and student looking to keep improving in this world of programming.
+
+In my free time I work on different projects that I'm currently developing and, whenever I can, collaborate on other projects :)
+
+### ⚡ My skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,haxeflixel,sass,ts,unity)](https://skillicons.dev)
+
+[![wakatime](https://wakatime.com/badge/user/5b26bf58-c9de-48ab-887e-6d132753df1f.svg?style=for-the-badge)](https://wakatime.com/@5b26bf58-c9de-48ab-887e-6d132753df1f)
 
 <!--
 **SavanDev/savandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
